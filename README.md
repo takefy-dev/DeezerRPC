@@ -12,7 +12,7 @@ DeezerRPC is a small application that let you display your current deezer music 
 Install [chromedriver](https://chromedriver.chromium.org/downloads) that correspond with your chrome version.
 After downloading the driver download the lasted [release](https://github.com/takefy-dev/DeezerRPC/releases), and extract it.
 Then move the chromedriver.exe in the extracted folder.
-And run setup.bat.
+And run setup.bat as **administrator**.
 After this you can launch the deezerRPC.jar in the zip file you've  downloaded  & extracted in the release tab
 Make sure to have java install on your pc
 # Usage
