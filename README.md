@@ -14,7 +14,7 @@ After downloading the driver download the lasted [release](https://github.com/ta
 Then move the chromedriver.exe in the extracted folder.
 And run setup.bat as **administrator**.
 After this you can launch the deezerRPC.jar in the zip file you've  downloaded  & extracted in the release tab
-Make sure to have java install on your pc
+Make sure to have java [jdk 16] (https://www.oracle.com/java/technologies/javase-jdk16-downloads.html) install on your pc
 # Usage
 
 Just click on the login button & login to your deezer account, and you're good to go
